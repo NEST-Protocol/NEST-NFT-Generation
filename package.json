@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.2",
+    "web3.storage": "^4.4.0"
+  }
+}
